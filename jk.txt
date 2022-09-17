@@ -23,7 +23,7 @@
 {"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/7555/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?sign=_JkbZasYLStEEBvY6kNP50KA6nG-d6W59N0HB9ZJNmY%3D%3A0"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVbox9527/xp/lezhutv.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVbox9527/xp/dadagui.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVbox9527/xp/jubaibai.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/zKiFun/kifun/blob/main/tvby.json"},
 {
 "key": "csp_xpath_94sm",
 "name": "94神马(XPath)",
